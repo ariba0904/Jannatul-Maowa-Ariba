@@ -19,5 +19,6 @@ It includes my education, skills, experience, and contact information in a simpl
 3) script.js
 
 ## Contact: 
-Name: Jannatul Maowa Ariba
+Name: Jannatul Maowa Ariba.
+
 Email: jannatulmaowaariba0@gmail.com
